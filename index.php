@@ -1,4 +1,4 @@
 <?php
 echo 'git test';
-echo '<hr>';
+echo '<br>';
 echo phpinfo();
